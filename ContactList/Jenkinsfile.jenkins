@@ -42,7 +42,7 @@ pipeline  {
             steps {
                 echo " ============== removing all docker containers =================="
                 sh '''
-                docker rm $(docker ps -a -q)
+                docker rm $(docker ps -a -q) || true
                 '''
             }
         }
