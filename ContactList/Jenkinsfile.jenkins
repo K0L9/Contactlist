@@ -34,7 +34,7 @@ pipeline  {
             steps {
                 echo " ============== stoping all images =================="
                 sh '''
-                docker stop $(docker ps -a -q || true) 
+                docker stop $(docker ps -a -q) || true 
                 '''
             }
         } 
