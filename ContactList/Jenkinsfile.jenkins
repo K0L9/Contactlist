@@ -29,14 +29,7 @@ pipeline  {
                 }
             }
         }
-        stage("docker push") {
-            steps {
-                echo " ============== pushing image =================="
-                sh '''
-                docker push k0l9/test-contact-list:latest
-                '''
-            }
-        }
+
         stage("docker stop") {
             steps {
                 echo " ============== stoping all images =================="
