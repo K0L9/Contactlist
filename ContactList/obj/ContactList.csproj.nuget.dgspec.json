@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Koval\\React\\preReleaseWebAPI\\ReadyWebAPI\\ContacList_WebAPI\\ContactList\\ContactList\\ContactList.csproj": {}
+    "E:\\Codes\\ContactListWebApiReact\\Again\\Contactlist\\ContactList\\ContactList.csproj": {}
   },
   "projects": {
-    "D:\\Koval\\React\\preReleaseWebAPI\\ReadyWebAPI\\ContacList_WebAPI\\ContactList\\ContactList\\ContactList.csproj": {
+    "E:\\Codes\\ContactListWebApiReact\\Again\\Contactlist\\ContactList\\ContactList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Koval\\React\\preReleaseWebAPI\\ReadyWebAPI\\ContacList_WebAPI\\ContactList\\ContactList\\ContactList.csproj",
+        "projectUniqueName": "E:\\Codes\\ContactListWebApiReact\\Again\\Contactlist\\ContactList\\ContactList.csproj",
         "projectName": "ContactList",
-        "projectPath": "D:\\Koval\\React\\preReleaseWebAPI\\ReadyWebAPI\\ContacList_WebAPI\\ContactList\\ContactList\\ContactList.csproj",
-        "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "D:\\Koval\\React\\preReleaseWebAPI\\ReadyWebAPI\\ContacList_WebAPI\\ContactList\\ContactList\\obj\\",
+        "projectPath": "E:\\Codes\\ContactListWebApiReact\\Again\\Contactlist\\ContactList\\ContactList.csproj",
+        "packagesPath": "C:\\Users\\Kolya\\.nuget\\packages\\",
+        "outputPath": "E:\\Codes\\ContactListWebApiReact\\Again\\Contactlist\\ContactList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kolya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -88,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
