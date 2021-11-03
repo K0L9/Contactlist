@@ -10,5 +10,5 @@ FROM build AS publish
 RUN dotnet publish "ContactList.csproj" -c Release -o /app/publish
 FROM base AS final
 COPY --from=publish /app/publish .
-COPY ClientApp/build/. ClientApp/build/
+COPY client-app/build/. client-app/build/
 ENTRYPOINT ["dotnet", "ContactList.dll"]
