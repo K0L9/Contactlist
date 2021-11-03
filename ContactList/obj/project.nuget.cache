@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QDQZQIRD4BkHfKpGOKVcUKbFcpxtDkQKHtYSyyDt5EXBNPm56j/EtJRNqDX1Q2X8ooqTVYPuytHUDtEKp/bAzg==",
+  "dgSpecHash": "G0WzoulTkwqhINI0Hmhbe5m8TAkevfS4LJ8VDpMmLqTVe97QeOcBgFNBGtqC1YwPJZ9o8I21fHsfxnjCFUpN3g==",
   "success": true,
   "projectFilePath": "E:\\Codes\\ContactListWebApiReact\\Again\\Contactlist\\ContactList\\ContactList.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\5.0.2\\microsoft.visualstudio.web.codegeneration.5.0.2.nupkg.sha512",
     "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\5.0.2\\microsoft.visualstudio.web.codegeneration.contracts.5.0.2.nupkg.sha512",
     "C:\\Users\\Kolya\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\5.0.2\\microsoft.visualstudio.web.codegeneration.core.5.0.2.nupkg.sha512",
